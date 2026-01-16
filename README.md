@@ -1,6 +1,6 @@
 # Professor Scheduler
 
-교수님을 위한 세션 기반 업무 관리 PWA
+Hildegard 업무 관리 PWA
 
 ## 주요 기능
 
